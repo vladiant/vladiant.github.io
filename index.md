@@ -1,4 +1,4 @@
-## Vladiant GitHub Page
+## Vladiant
 
 The developer site of Vladislav Antonov
 
