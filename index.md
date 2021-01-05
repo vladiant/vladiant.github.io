@@ -1,6 +1,4 @@
-# vladiant
-
-### Contents
+## Contents
 
 * [How to prepare Github Pages Site]()
 
