@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Contents
+### Contents
 
 * [How to prepare Github Pages Site]()
 
