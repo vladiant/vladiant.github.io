@@ -2,16 +2,17 @@
 layout: default
 ---
 
-## How to prepare Github Pages Site
+# How to prepare Github Pages Site
 
-### Videos
-* [Next Level GitHub Profile README](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+Links to various resources and tutorials
 
-* [UPDATE: Next Level GitHub Profile README](https://www.youtube.com/watch?v=n6d4KHSKqGk)
+## Videos
+* Next Level GitHub Profile README https://www.youtube.com/watch?v=ECuqb5Tv9qI
+* UPDATE: Next Level GitHub Profile README https://www.youtube.com/watch?v=n6d4KHSKqGk
 
-### Icons
+## Icons
 * https://github.com/simple-icons/simple-icons
 * https://simpleicons.org/
 
-#### Search for specific icon (C++)
+## Search for specific icon (C++)
 https://github.com/search?q=cpp
