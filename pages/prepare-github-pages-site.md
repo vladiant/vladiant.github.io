@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# How to prepare Github Pages Site
-
-Links to various resources and tutorials
+How to prepare Github Pages Site
 
 ## Videos
 * [Next Level GitHub Profile README](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
