@@ -7,12 +7,12 @@ layout: default
 Links to various resources and tutorials
 
 ## Videos
-* Next Level GitHub Profile README https://www.youtube.com/watch?v=ECuqb5Tv9qI
-* UPDATE: Next Level GitHub Profile README https://www.youtube.com/watch?v=n6d4KHSKqGk
+* [Next Level GitHub Profile README](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+* [UPDATE: Next Level GitHub Profile README](https://www.youtube.com/watch?v=n6d4KHSKqGk)
 
 ## Icons
 * https://github.com/simple-icons/simple-icons
 * https://simpleicons.org/
 
 ## Search for specific icon (C++)
-https://github.com/search?q=cpp
+* https://github.com/search?q=cpp
