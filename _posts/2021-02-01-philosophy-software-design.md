@@ -9,7 +9,7 @@ date: 2021-02-01
 * [42:00](https://youtu.be/bmSAYlu0NcY?t=2519) ".. but Mark Zuckerberg is the fourth wealthiest person on the planet. How can this be a bad approach? And, of course, the answer is, you know, you can be successful with crappy code."
 
 ## The video
-* [A Philosophy of Software Design | John Ousterhout](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+* [A Philosophy of Software Design by John Ousterhout](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 
 ## My notes
 * Minimize complexity.
