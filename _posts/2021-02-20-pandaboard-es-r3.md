@@ -7,11 +7,11 @@ date: 2021-02-20
 ## Intro
 Posted on October 4, 2013 by svtronics in Blog, Pandaboard-ES B3.
 
-http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/
+http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/ - Not active anymore
 
 ## Download path for pre-build binaries
 
-https://www.dropbox.com/sh/nehzvckcbkdhui6/n3G5wbi-47
+[SVT](https://www.dropbox.com/sh/nehzvckcbkdhui6/n3G5wbi-47)
 
 ### Ubuntu package directory (boot loader, kernel and file-system)
 SVT/PandaboardES_B3_Packages/ubuntu-package/
@@ -144,11 +144,11 @@ userdata.tar.bz2
 
 1) Source Code for u-boot (for ubuntu and android file-system)
 
-http://github.com/svtronics/u-boot-pandaboard-ES-RevB3
+[http://github.com/svtronics/u-boot-pandaboard-ES-RevB3](http://github.com/svtronics/u-boot-pandaboard-ES-RevB3)
 
 2) Source Code for Kernel (for Ubuntu file-system)
 
-http://github.com/svtronics/kernel-pandaboard-ES-RevB3
+[http://github.com/svtronics/kernel-pandaboard-ES-RevB3](http://github.com/svtronics/kernel-pandaboard-ES-RevB3)
 
 ## Steps to compile u-boot (Can be used with Ubuntu and Linaro Android)
 1) Checkout u-boot source for Panadaboard ES RevB3 from GIT
@@ -200,9 +200,9 @@ INSTALL_MOD_PATH=<mount point of sd card>/rootfs/
 
 ## References
 
-1) http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/
-2) http://www.svtronics.com/support/support/blog/
-3) https://hackpad.com/Setup-Ubuntu-14.04.1-for-Pandaboard-ES-Rev.-B3-in-Ubuntu-14.10-zSnXFECi2kc
-4) http://stackoverflow.com/questions/19292993/pandaboard-bootup-issue
-5) https://www.riscosopen.org/forum/forums/3/topics/2459
-6) http://wiki.hbrobotics.org/index.php?title=Installing_Ubuntu_With_Real_Time_Patches_On_The_PandaBoard
+1) Inactive: http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/
+2) Inactive: http://www.svtronics.com/support/support/blog/
+3) Inactive: https://hackpad.com/Setup-Ubuntu-14.04.1-for-Pandaboard-ES-Rev.-B3-in-Ubuntu-14.10-zSnXFECi2kc
+4) [Pandaboard bootup issue](http://stackoverflow.com/questions/19292993/pandaboard-bootup-issue)
+5) [RISC OS Open Forums/Code review/OMAP4](https://www.riscosopen.org/forum/forums/3/topics/2459)
+6) Inactive: http://wiki.hbrobotics.org/index.php?title=Installing_Ubuntu_With_Real_Time_Patches_On_The_PandaBoard
