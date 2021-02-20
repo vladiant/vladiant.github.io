@@ -201,8 +201,14 @@ INSTALL_MOD_PATH=<mount point of sd card>/rootfs/
 ## References
 
 1) Inactive: http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/
+
 2) Inactive: http://www.svtronics.com/support/support/blog/
+
 3) Inactive: https://hackpad.com/Setup-Ubuntu-14.04.1-for-Pandaboard-ES-Rev.-B3-in-Ubuntu-14.10-zSnXFECi2kc
+
 4) [Pandaboard bootup issue](http://stackoverflow.com/questions/19292993/pandaboard-bootup-issue)
+
 5) [RISC OS Open Forums/Code review/OMAP4](https://www.riscosopen.org/forum/forums/3/topics/2459)
+
 6) Inactive: http://wiki.hbrobotics.org/index.php?title=Installing_Ubuntu_With_Real_Time_Patches_On_The_PandaBoard
+
