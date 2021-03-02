@@ -120,3 +120,6 @@ Predictive Analytics unleashes the power of data. With this technology, the comp
 ### Description
 
 This book provides experienced UX designers and technologists with a clear and practical roadmap for approaching consumer product strategy and design in this novel market. By drawing on the best of current design practice and academic research, Designing Connected Products delivers sound advice for working with cross-device interactions and the complex ecosystems inherent in IoT technology.
+
+[Link to next part](https://vladiant.github.io/blog/2021/03/02/software-development-books-p2)
+
