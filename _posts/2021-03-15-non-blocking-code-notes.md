@@ -24,4 +24,5 @@ date: 2021-03-15
 
 ## Reference
 
- * [Golang UK Conference 2017 | Arne Claus - Concurrency Patterns in Go](https://www.youtube.com/watch?v=rDRa23k70CU)
+ * Golang UK Conference 2017 Arne Claus - Concurrency Patterns in Go 
+ * [Video](https://www.youtube.com/watch?v=rDRa23k70CU)
