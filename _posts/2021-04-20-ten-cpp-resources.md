@@ -53,3 +53,7 @@ date: 2021-04-20
 ## 10. C++ reddit
 
 * https://www.reddit.com/r/cpp/](https://www.reddit.com/r/cpp/)
+
+## Reference
+* [C++ Weekly - Ep 268 - Top 10 C++ Resources You MUST Know About!](https://www.youtube.com/watch?v=eSDVVrjFh54)
+
