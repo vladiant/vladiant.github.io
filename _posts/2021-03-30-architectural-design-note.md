@@ -8,6 +8,6 @@ date: 2021-03-30
 
 ## 2. Each component shall use only interfaces. Using implementation instead of interface lead to code, linking and other dependencies issues.
 
-## 3. Please, use STL way for working with any data containers. Think twice and look at http://www.cplusplus.com/reference/algorithm/ before implement own loop, search, swap or corporation.
+## 3. Please, use STL way for working with any data containers. Think twice and look at [http://www.cplusplus.com/reference/algorithm/](http://www.cplusplus.com/reference/algorithm/) before implement own loop, search, swap or corporation.
 
 ## 4. Avoid using singletons

@@ -248,4 +248,4 @@ Notice that
 The input language for Make is whitespace sensitive. In particular, _the action lines following dependencies must start with a tab_. But a series of spaces can look the same (and indeed there are editors that will silently convert tabs to spaces or vice versa), which results in a Make file that looks right and still doesn't work. This was identified as a bug early on, but ( [the story goes](http://www.catb.org/esr/writings/taoup/html/ch15s04.html) ) it was not fixed, because there were already 10 users.
 
 ## Reference
-* https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile
+* [https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile](https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile)

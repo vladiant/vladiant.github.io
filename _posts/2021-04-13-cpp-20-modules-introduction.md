@@ -8,14 +8,14 @@ date: 2021-04-13
 * [A Practical Introduction to C++20's Modules - Hendrik Niemeyer](https://www.youtube.com/watch?v=tOjZtodXqNQ)
 
 ## Slides
-* https://github.com/hniemeyer/ModulesTalk
+* [https://github.com/hniemeyer/ModulesTalk](https://github.com/hniemeyer/ModulesTalk)
 
 ## Repo
-* https://github.com/hniemeyer
+* [https://github.com/hniemeyer](https://github.com/hniemeyer)
 
 ## CMake Examples
-* https://github.com/hniemeyer/cmake-visual-studio-demo
-* https://github.com/hniemeyer/cmake_tutorial
+* [https://github.com/hniemeyer/cmake-visual-studio-demo](https://github.com/hniemeyer/cmake-visual-studio-demo)
+* [https://github.com/hniemeyer/cmake_tutorial](https://github.com/hniemeyer/cmake_tutorial)
 
 ## References
 * [Modules the beginner's guide - Daniela Engert - Meeting C++ 2019](https://www.youtube.com/watch?v=Kqo-jIq4V3I)

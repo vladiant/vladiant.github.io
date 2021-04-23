@@ -7,7 +7,7 @@ date: 2021-02-20
 ## Intro
 Posted on October 4, 2013 by svtronics in Blog, Pandaboard-ES B3.
 
-http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/ - Not active anymore
+[http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/](http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/) - Not active anymore
 
 ## Download path for pre-build binaries
 
@@ -200,15 +200,15 @@ INSTALL_MOD_PATH=<mount point of sd card>/rootfs/
 
 ## References
 
-1) Inactive: http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/
+1) Inactive: [http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/](http://www.svtronics.com/support/pandaboard-es-b3-developers-guide/)
 
-2) Inactive: http://www.svtronics.com/support/support/blog/
+2) Inactive: [http://www.svtronics.com/support/support/blog/](http://www.svtronics.com/support/support/blog/)
 
-3) Inactive: https://hackpad.com/Setup-Ubuntu-14.04.1-for-Pandaboard-ES-Rev.-B3-in-Ubuntu-14.10-zSnXFECi2kc
+3) Inactive: [https://hackpad.com/Setup-Ubuntu-14.04.1-for-Pandaboard-ES-Rev.-B3-in-Ubuntu-14.10-zSnXFECi2kc](https://hackpad.com/Setup-Ubuntu-14.04.1-for-Pandaboard-ES-Rev.-B3-in-Ubuntu-14.10-zSnXFECi2kc)
 
 4) [Pandaboard bootup issue](http://stackoverflow.com/questions/19292993/pandaboard-bootup-issue)
 
 5) [RISC OS Open Forums/Code review/OMAP4](https://www.riscosopen.org/forum/forums/3/topics/2459)
 
-6) Inactive: http://wiki.hbrobotics.org/index.php?title=Installing_Ubuntu_With_Real_Time_Patches_On_The_PandaBoard
+6) Inactive: [http://wiki.hbrobotics.org/index.php?title=Installing_Ubuntu_With_Real_Time_Patches_On_The_PandaBoard](http://wiki.hbrobotics.org/index.php?title=Installing_Ubuntu_With_Real_Time_Patches_On_The_PandaBoard)
 

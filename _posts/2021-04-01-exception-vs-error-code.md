@@ -30,7 +30,7 @@ Quite clear idea, no overhead if not used (means that if nothing is thrown then 
  
 ### Drawbacks
 
-It’s not easy to write exception safe code. The ones, who thinks that he (she) knows all about exceptions, please see the series of talks listed here (Part I, Part II, Part III) : http://exceptionsafecode.com/
+It’s not easy to write exception safe code. The ones, who thinks that he (she) knows all about exceptions, please see the series of talks listed here (Part I, Part II, Part III) : [http://exceptionsafecode.com/](http://exceptionsafecode.com/)
 
 
 The link will be very useful for the ones know a little about exceptions.
