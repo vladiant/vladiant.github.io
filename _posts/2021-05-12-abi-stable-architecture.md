@@ -4,7 +4,7 @@ title: "ABI Stable Architecture"
 date: 2021-05-12
 ---
 
-# Main points
+## Main points
 * Export free functions?
 * Except the constructor all the functions have the first parameter as pointer of the class
 * Export method table instead -> use in [PIMPL](https://en.cppreference.com/w/cpp/language/pimpl)
