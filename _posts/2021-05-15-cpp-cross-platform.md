@@ -59,6 +59,11 @@ date: 2021-05-14
 * Should learn the language and best practices
 * Problem - reproduce configuration and build
 * Build each from source - [ExternalProject_Add](https://cmake.org/cmake/help/latest/module/ExternalProject.html)
+* [find_package](https://cmake.org/cmake/help/latest/command/find_package.html) - Config files: XXXConfig.cmake, [CMAKE_PREFIX_PATH](https://cmake.org/cmake/help/latest/variable/CMAKE_PREFIX_PATH.html)
+* [Find modules](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html) : (not cmake dependent) - FindXXX.cmake, [CMAKE_MODULE_PATH](https://cmake.org/cmake/help/latest/variable/CMAKE_MODULE_PATH.html)
+* Packaging: [CPack](https://cmake.org/cmake/help/latest/module/CPack.html)
+* Testing: [Ctest](https://cmake.org/cmake/help/v2.8.12/ctest.html)
+* Toolchains: [CMAKE_TOOLCHAIN_FILE](https://cmake.org/cmake/help/latest/variable/CMAKE_TOOLCHAIN_FILE.html) , Conan profiles
 * [FetchContent](https://cmake.org/cmake/help/latest/module/FetchContent.html) - downloads at configure time, doesn't scale
 
 ## Common configuration
@@ -68,11 +73,6 @@ date: 2021-05-14
 * ACCU 2021 example: [https://github.com/esweet431/box2d-lite](https://github.com/esweet431/box2d-lite)
 * [Documentation cmake-presets](https://cmake.org/cmake/help/latest/manual/cmake-presets.7.html)
 * [CMakePresets.json and CMakeUserPresets.json Microsoft vendor maps](https://docs.microsoft.com/en-us/cpp/build/cmake-presets-json-reference?view=msvc-160)
-* [find_package](https://cmake.org/cmake/help/latest/command/find_package.html) - Config files: XXXConfig.cmake, [CMAKE_PREFIX_PATH](https://cmake.org/cmake/help/latest/variable/CMAKE_PREFIX_PATH.html)
-* [Find modules](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html) : (not cmake dependent) - FindXXX.cmake, [CMAKE_MODULE_PATH](https://cmake.org/cmake/help/latest/variable/CMAKE_MODULE_PATH.html)
-* Packaging: [CPack](https://cmake.org/cmake/help/latest/module/CPack.html)
-* Testing: [Ctest](https://cmake.org/cmake/help/v2.8.12/ctest.html)
-* Toolchains: [CMAKE_TOOLCHAIN_FILE](https://cmake.org/cmake/help/latest/variable/CMAKE_TOOLCHAIN_FILE.html) , Conan profiles
 
 ## Dependency management
 * No automation and reproducible dependency management
