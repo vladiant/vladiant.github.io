@@ -10,7 +10,7 @@ date: 2021-05-20
 ## Prototype implementation
 * [https://github.com/TartanLlama/typeclasses](https://github.com/TartanLlama/typeclasses)
 
-# Experimental compiler
+## Experimental compiler
 * [https://github.com/lock3/meta](https://github.com/lock3/meta)
 * [https://cppx.godbolt.org/](https://cppx.godbolt.org/)
 
