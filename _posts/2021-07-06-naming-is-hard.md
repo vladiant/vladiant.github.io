@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naming Is Hard"
-date: 2021-07-01
+date: 2021-07-06
 ---
 
 ## Names exist outside your code
