@@ -2,6 +2,8 @@
 Created following the steps in http://jmcglone.com/guides/github-pages/
 
 ## TODO
+[x] Add tags to the blog posts as described in [Jekyll Tags on Github Pages](https://longqian.me/2017/02/09/github-jekyll-tag/).
+
 [ ] Try creating an `_include` file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an [example](https://github.com/jmcglone/jmcglone.github.io/blob/master/_includes/analytics.html).
   
 [ ] For commenting for your blog Create a [DISQUS](https://github.com/jmcglone/jmcglone.github.io/blob/master/_includes/disqus.html) `include` and [call it in your `post.html` layout](https://github.com/jmcglone/jmcglone.github.io/blob/master/_layouts/post.html).
