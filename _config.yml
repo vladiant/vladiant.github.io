@@ -5,3 +5,8 @@ permalink: /blog/:year/:month/:day/:title
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+# Add sitemap
+url: "https://vladiant.github.io/" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
