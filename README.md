@@ -8,7 +8,7 @@ Created following the steps in http://jmcglone.com/guides/github-pages/
 
 [x] Add sitemap following the <https://github.com/jekyll/jekyll-sitemap>. Alternative approach - [Generating sitemap.xml in Jekyll, without using plugins](https://christianspecht.de/2015/04/16/generating-sitemap-xml-in-jekyll-without-using-plugins/)
 
-[x] Try creating an `_include` file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an [example](https://github.com/jmcglone/jmcglone.github.io/blob/master/_includes/analytics.html).
+[x] Try creating an `_include` file that inserts Google Analytics tracking code into your <head> so you can get stats on the visitors to your website. Here's an [example](https://github.com/jmcglone/jmcglone.github.io/blob/master/_includes/analytics.html). More links - [Google Analytics for Jekyll](https://desiredpersona.com/google-analytics-jekyll/), <https://stackoverflow.com/questions/17207458/how-to-add-google-analytics-tracking-id-to-github-pages>
   
 [ ] For commenting for your blog Create a [DISQUS](https://github.com/jmcglone/jmcglone.github.io/blob/master/_includes/disqus.html) `include` and [call it in your `post.html` layout](https://github.com/jmcglone/jmcglone.github.io/blob/master/_layouts/post.html).
 
