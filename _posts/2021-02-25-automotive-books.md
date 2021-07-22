@@ -2,6 +2,7 @@
 layout: post
 title: "Automotive Books"
 date: 2021-02-25
+tags: books automotive
 ---
 
 ## Intro

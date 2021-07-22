@@ -2,6 +2,7 @@
 layout: post
 title: "Mark Unused Variable"
 date: 2021-04-03
+tags: c++
 ---
 
 ## Options

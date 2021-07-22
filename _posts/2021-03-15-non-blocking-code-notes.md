@@ -2,6 +2,7 @@
 layout: post
 title: "Non-Blocking Code Notes"
 date: 2021-03-15
+tags: design concurrency
 ---
 
 ## Guidelines

@@ -2,6 +2,7 @@
 layout: post
 title: "GitHub Actions Notes"
 date: 2021-06-15
+tags: github
 ---
 
 ## Advantages

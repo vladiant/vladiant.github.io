@@ -2,6 +2,7 @@
 layout: post
 title: "Design Principles"
 date: 2021-04-18
+tags: design
 ---
 
 ## Princples

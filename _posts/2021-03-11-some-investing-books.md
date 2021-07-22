@@ -2,6 +2,7 @@
 layout: post
 title: "Some Investing Books"
 date: 2021-03-05
+tags: books investing
 ---
 
 ## Intro

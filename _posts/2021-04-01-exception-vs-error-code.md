@@ -2,6 +2,7 @@
 layout: post
 title: "Exception vs Error Code"
 date: 2021-04-01
+tags: design
 ---
 
 ## Problem

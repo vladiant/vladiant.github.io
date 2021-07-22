@@ -2,6 +2,7 @@
 layout: post
 title: "VSCode Develop Inside Container"
 date: 2021-07-07
+tags: vscode docker development
 ---
 
 ## Short description and configuration

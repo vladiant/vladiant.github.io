@@ -2,6 +2,7 @@
 layout: post
 title: "C++11/14 Lessons Learned"
 date: 2021-05-25
+tags: c++ c++11 c++14
 ---
 
 ## Safe Features

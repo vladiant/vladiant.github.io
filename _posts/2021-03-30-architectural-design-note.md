@@ -2,6 +2,7 @@
 layout: post
 title: "Architectural and design note"
 date: 2021-03-30
+tags: design
 ---
 
 ## 1. Each application layer can use low level and own level interfaces for implementing own business logic, but it's a wrong design to use interfaces of upper level.

@@ -2,6 +2,7 @@
 layout: post
 title: "Naming Is Hard"
 date: 2021-07-06
+tags: design
 ---
 
 ## Names exist outside your code

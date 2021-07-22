@@ -2,6 +2,7 @@
 layout: post
 title: "Simple Makefile Guide"
 date: 2021-03-21
+tags: c++ make
 ---
 
 ## What is Make? And Why Should I Care?

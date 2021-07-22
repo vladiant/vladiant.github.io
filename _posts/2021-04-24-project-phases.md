@@ -2,6 +2,7 @@
 layout: post
 title: "Project Phases"
 date: 2021-04-24
+tags: design
 ---
 
 ## Important project phases

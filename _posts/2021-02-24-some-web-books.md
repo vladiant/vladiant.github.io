@@ -2,6 +2,7 @@
 layout: post
 title: "Some Web Books"
 date: 2021-02-24
+tags: books web
 ---
 
 ## Intro from 2017

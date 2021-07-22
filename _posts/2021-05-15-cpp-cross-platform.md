@@ -2,6 +2,7 @@
 layout: post
 title: "C++ Cross Platform Development"
 date: 2021-05-14
+tags: c++ cross
 ---
 
 ## Build

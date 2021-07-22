@@ -2,6 +2,7 @@
 layout: post
 title: "Design Pattern Note"
 date: 2021-06-24
+tags: design
 ---
 
 ## Design patterns

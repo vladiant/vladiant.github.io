@@ -2,6 +2,7 @@
 layout: post
 title: "Simple testing can prevent bugs"
 date: 2021-04-16
+tags: design test
 ---
 
 

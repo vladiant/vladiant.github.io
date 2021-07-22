@@ -2,6 +2,7 @@
 layout: post
 title: "Practical Go Notes"
 date: 2021-06-19
+tags: golang design
 ---
 
 ## Guding Principles

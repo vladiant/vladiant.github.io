@@ -2,6 +2,7 @@
 layout: post
 title: "Java Books"
 date: 2021-02-23
+tags: books java
 ---
 
 ## Intro from 2017

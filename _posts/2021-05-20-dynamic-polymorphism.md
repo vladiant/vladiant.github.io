@@ -2,6 +2,7 @@
 layout: post
 title: "C++ Dynamic Polymorphism"
 date: 2021-05-20
+tags: c++ polymorphism
 ---
 
 ## Code for the talk

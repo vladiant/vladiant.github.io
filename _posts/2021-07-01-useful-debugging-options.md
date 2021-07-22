@@ -2,6 +2,7 @@
 layout: post
 title: "Useful Debugging Options"
 date: 2021-07-01
+tags: c++ debug
 ---
 
 ## readelf

@@ -2,6 +2,7 @@
 layout: post
 title: "Top 10 C++ Resources"
 date: 2021-04-20
+tags: c++
 ---
 
 ## 1. Youtube

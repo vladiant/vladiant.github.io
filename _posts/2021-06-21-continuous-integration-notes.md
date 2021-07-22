@@ -2,6 +2,7 @@
 layout: post
 title: "Continuous Integration Notes"
 date: 2021-06-21
+tags: ci cd
 ---
 
 ## Motivation

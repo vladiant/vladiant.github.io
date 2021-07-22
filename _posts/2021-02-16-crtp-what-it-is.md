@@ -2,6 +2,7 @@
 layout: post
 title: "CRTP: What It Is, Some History and Some Uses"
 date: 2021-02-16
+tags: c++ template
 ---
 
 ## Highlights

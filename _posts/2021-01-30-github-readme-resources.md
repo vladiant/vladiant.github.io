@@ -2,6 +2,7 @@
 layout: post
 title: "Github Readme Site Resources"
 date: 2021-01-30
+tags: github
 ---
 
 ## Github ReadMe examples

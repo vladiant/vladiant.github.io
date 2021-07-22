@@ -2,6 +2,7 @@
 layout: post
 title: "ABI Stable Architecture"
 date: 2021-05-12
+tags: c++ abi design
 ---
 
 ## Main points

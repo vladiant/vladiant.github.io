@@ -2,6 +2,7 @@
 layout: post
 title: "Concurrency in C++20"
 date: 2021-05-29
+tags: c++ concurrency c++20
 ---
 
 ## Control tokens

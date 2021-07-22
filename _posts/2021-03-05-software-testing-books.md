@@ -2,6 +2,7 @@
 layout: post
 title: "Software Testing Books"
 date: 2021-03-05
+tags: books test
 ---
 
 ## Intro

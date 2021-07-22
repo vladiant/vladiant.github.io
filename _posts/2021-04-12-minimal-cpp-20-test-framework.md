@@ -2,6 +2,7 @@
 layout: post
 title: "Minimal C++20 Testing Framework"
 date: 2021-04-12
+tags: c++ c++20 test
 ---
 
 ## Presentation

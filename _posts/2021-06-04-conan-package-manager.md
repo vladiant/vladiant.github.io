@@ -2,6 +2,7 @@
 layout: post
 title: "Conan Package Manager"
 date: 2021-06-04
+tags: c++ conan
 ---
 
 ## Presentation

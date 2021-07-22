@@ -2,6 +2,7 @@
 layout: post
 title: "Azure Computer Vision"
 date: 2021-06-29
+tags: vision azure api
 ---
 
 ## Links

@@ -2,6 +2,7 @@
 layout: post
 title: "Dynamic Memory Price"
 date: 2021-07-13
+tags: c++ memory cache allocation performance
 ---
 
 ## Principles of data organization for C++ developers

@@ -2,6 +2,7 @@
 layout: post
 title: "A Philosophy of Software Design"
 date: 2021-02-01
+tags: design
 ---
 
 ## Highlights

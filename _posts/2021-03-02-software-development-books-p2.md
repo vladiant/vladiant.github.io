@@ -2,6 +2,7 @@
 layout: post
 title: "Software Development Books part 2"
 date: 2021-03-02
+tags: books design
 ---
 
 ## Intro

@@ -2,6 +2,7 @@
 layout: post
 title: "Keys to Redesigning a Legacy System"
 date: 2021-04-22
+tags: design
 ---
 
 ## Key Ingredients

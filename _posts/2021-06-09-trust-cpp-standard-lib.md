@@ -2,6 +2,7 @@
 layout: post
 title: "Trust C++ Standard Library"
 date: 2021-06-09
+tags: c++ standard stl
 ---
 
 ## Know what your library does

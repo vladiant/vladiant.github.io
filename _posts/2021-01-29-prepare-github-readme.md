@@ -2,6 +2,7 @@
 layout: post
 title: "How to prepare Github Readme Site"
 date: 2021-01-29
+tags: github
 ---
 
 The idea how to start this site was inspired by [codeSTACKr ](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)

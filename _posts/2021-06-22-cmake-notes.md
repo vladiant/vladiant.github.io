@@ -2,6 +2,7 @@
 layout: post
 title: "CMake Notes"
 date: 2021-06-22
+tags: c++ cmake
 ---
 
 ## Base CMake commands

@@ -2,6 +2,7 @@
 layout: post
 title: "Soft and Management Skills Books"
 date: 2021-02-26
+tags: books soft_skills
 ---
 
 ## Intro

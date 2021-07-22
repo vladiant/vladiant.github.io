@@ -2,6 +2,7 @@
 layout: post
 title: "Rethinking Templates in C++"
 date: 2021-06-05
+tags: c++ template
 ---
 
 ## Highlights

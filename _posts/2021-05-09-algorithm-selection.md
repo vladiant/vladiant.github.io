@@ -2,6 +2,7 @@
 layout: post
 title: "Algorithm Selection"
 date: 2021-05-09
+tags: c++ design standard stl
 ---
 
 ## Choose the most specialized version

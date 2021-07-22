@@ -2,6 +2,7 @@
 layout: post
 title: "Pandaboard-ES Rev B3 Developer’s Guide"
 date: 2021-02-20
+tags: pandaboard
 ---
 
 ## Intro
