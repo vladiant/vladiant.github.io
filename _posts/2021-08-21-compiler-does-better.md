@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Compiler does better than you"
-date: 2021-08-14
+date: 2021-08-21
 tags: c++ performance
 ---
 
