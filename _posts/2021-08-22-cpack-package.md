@@ -43,7 +43,9 @@ set(CPACK_DEBIAN_PACKAGE_MAINTAINER "David Doria") # required
 
 include(CPack)
 ```
+
 * To use:
+
 ```
 $ make package
 $ sudo dpkg -i DistanceBetweenPoints-0.1.1-Linux.deb
