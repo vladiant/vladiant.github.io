@@ -60,5 +60,5 @@ $ sudo dpkg -i DistanceBetweenPoints-0.1.1-Linux.deb
 * [PackageGenerators](https://gitlab.kitware.com/cmake/community/-/wikis/doc/cpack/PackageGenerators)
 * [Cpack Getting Started Guide](https://developpaper.com/cpack-getting-started-guide/)
 * [CPack Example](https://github.com/uilianries/cpack-example)
-* [Auto-Detect Dependencies when Building .debs Using CMak](https://www.guyrutenberg.com/2012/07/19/auto-detect-dependencies-when-building-debs-using-cmake/)
+* [Auto-Detect Dependencies when Building .debs Using CMake](https://www.guyrutenberg.com/2012/07/19/auto-detect-dependencies-when-building-debs-using-cmake/)
 
