@@ -2,7 +2,7 @@
 layout: post
 title: "Successful API Recipe"
 date: 2021-09-18
-tags: books developement coding
+tags: api design interface
 ---
 
 ## API Lifecycle
