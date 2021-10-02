@@ -15,7 +15,7 @@ tags: api design interface
 * Manage
 
 ## Case 1
-* _Problem:_ Product temas often forget who they are dsigning/building the API for.
+* _Problem:_ Product teams often forget who they are dsigning/building the API for.
 * _Solution:_ Document a shared understanding of customer needs (and revisti it often!)
 
 ## Case 2
