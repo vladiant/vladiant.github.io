@@ -2,7 +2,7 @@
 layout: post
 title: "Beginner Guide"
 date: 2021-09-18
-tags: books developement coding
+tags: books development coding
 ---
 
 ## Courses
