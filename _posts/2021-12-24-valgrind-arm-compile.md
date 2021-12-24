@@ -73,24 +73,17 @@ user@host:~/$ tar cvf valgrind.tar valgrind/
 
 #### Example:
 * funcmng is initialized in inittab (sdk/rootfs/etc/inittab):
-
 ``` bash
 ttyS0::respawn:/usr/bin/funcmng
 ```
-
 * changes to:
-
 ``` bash
 ttyS0::respawn:/usr/bin/env VALGRIND_LIB=/data/root/valgrind/lib/valgrind /data/root/valgrind/bin/valgrind --log-file=/data/root/debug_file.log --trace-children=yes /usr/bin/funcmng
 ```
 * The option `--trace-children=yes` can be removed if there is no interest in checking the children of the process.
-
 * The output will be written in debug_file.log. If the daemon/program is not shutdown, the memory leak report will not be generated. If the service cannot be shutdown (like funcmng) one workaround is to shutdown the system with:
-
 ``` bash
 # kill -TERM 1
 ```
-
 * Then shut it down and switch to emergencyOS via PartnerJET
-
 * Flash the device with a version of inittab without valgrind (otherwise it will overwrite the log) and restart it to get the log.
