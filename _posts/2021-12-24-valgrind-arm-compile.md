@@ -47,29 +47,20 @@ user@host:~/$ tar cvf valgrind.tar valgrind/
 ```
 
 ### Installation on device:
-
 * Valgrind demands that ld-2.19-2014.04.so library contains debug symbols (see Stop compilation from removing symbols from critical shared libraries topic below)
-
 * Copy the valgrind tarball to the home directory
-
 ``` bash
 # tar xvf valgrind.tar
 ```
-
 * Set the VALGRIND_LIB environment variable:
-
 ``` bash
 # export VALGRIND_LIB=/data/root/valgrind/lib/valgrind
 ```
-
 * Run valgrind:
-
 ``` bash
 # /data/root/valgrind/bin/valgrind ./program_to_be_tested
 ```
-
 * If the program is a daemon (without a debug mode), change the init line to run valgrind at start.
-
 
 #### Example:
 * funcmng is initialized in inittab (sdk/rootfs/etc/inittab):
