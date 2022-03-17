@@ -28,6 +28,8 @@ https://quick-bench.com/q/e8QPdYta3Y2BAN0HUnlezkIOJpk
 
 ## Code spippets
 
+* Group 1
+
 ```cpp
 static void BM_branch_predicted(benchmark::State& state) {
   srand(1);
@@ -127,6 +129,8 @@ static void BM_branch_predict(benchmark::State& state) {
 BENCHMARK(BM_branch_predict)->Arg(1<<22);
 ```
 
+* Group 2
+
 ```cpp
 static void BM_false_branch(benchmark::State& state) {
   srand(1);
@@ -196,6 +200,8 @@ static void BM_false_branch2(benchmark::State& state) {
 // Register the function as a benchmark
 BENCHMARK(BM_false_branch2)->Arg(1<<22);
 ```
+
+* Group 3
 
 ```cpp
 static void BM_branched(benchmark::State& state) {
