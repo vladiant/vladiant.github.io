@@ -30,6 +30,8 @@ https://quick-bench.com/q/e8QPdYta3Y2BAN0HUnlezkIOJpk
 
 * Group 1
 
+   * Sample 1
+
 ```cpp
 static void BM_branch_predicted(benchmark::State& state) {
   srand(1);
@@ -63,6 +65,7 @@ static void BM_branch_predicted(benchmark::State& state) {
 BENCHMARK(BM_branch_predicted)->Arg(1<<22);
 ```
 
+   * Sample 2
 ```cpp
 static void BM_branch_not_predicted(benchmark::State& state) {
   srand(1);
@@ -96,6 +99,7 @@ static void BM_branch_not_predicted(benchmark::State& state) {
 BENCHMARK(BM_branch_not_predicted)->Arg(1<<22);
 ```
 
+   * Sample 3
 ```cpp
 static void BM_branch_predict(benchmark::State& state) {
   srand(1);
@@ -131,6 +135,7 @@ BENCHMARK(BM_branch_predict)->Arg(1<<22);
 
 * Group 2
 
+   * Sample 1
 ```cpp
 static void BM_false_branch(benchmark::State& state) {
   srand(1);
@@ -166,6 +171,7 @@ static void BM_false_branch(benchmark::State& state) {
 BENCHMARK(BM_false_branch)->Arg(1<<22);
 ```
 
+   * Sample 2
 ```cpp
 static void BM_false_branch2(benchmark::State& state) {
   srand(1);
@@ -203,6 +209,7 @@ BENCHMARK(BM_false_branch2)->Arg(1<<22);
 
 * Group 3
 
+   * Sample 1
 ```cpp
 static void BM_branched(benchmark::State& state) {
   srand(1);
@@ -236,6 +243,7 @@ static void BM_branched(benchmark::State& state) {
 BENCHMARK(BM_branched)->Arg(1<<22);
 ```
 
+   * Sample 2
 ```cpp
 static void BM_branchless(benchmark::State& state) {
   srand(1);
