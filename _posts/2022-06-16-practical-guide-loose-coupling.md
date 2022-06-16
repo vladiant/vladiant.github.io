@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Implementing C++ Modules"
-date: 2022-06-02
+title: "Guide To Loose Coupling"
+date: 2022-06-16
 tags: c++ design
 ---
 
