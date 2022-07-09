@@ -10,3 +10,10 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 url: "https://vladiant.github.io/" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+
+# Add blog feed
+plugins:
+  - jekyll-feed
+title: vladiant blog
+description: Welcome to my blog
+author: Vladislav Antonov
