@@ -1,18 +1,28 @@
-# requiring the environment of Ruby 2.3.x
- image: ruby:2.3
- # add bundle cache to 'vendor' for speeding up builds
- cache:
-   paths:
-     - vendor/
- before_script:
-   - bundle install --path vendor
- # the 'pages' job will deploy and build your site to the 'public' path
- pages:
-   stage: deploy
-   script:
-     - bundle exec jekyll build -d public/
-   artifacts:
-     paths:
-       - public
-   only:
-     - main # this job will affect only the 'main' branch
+image: ruby:2.3  # Use Ruby Docker image
+
+cache:  # Add Bundler cache to 'vendor' directory
+  paths:
+    - vendor/
+
+before_script:  # Install Gems to 'vendor' directory
+  - bundle install --path vendor
+
+test:
+  stage: test
+  script:  # Generate test site(s) into 'test' directory
+  - bundle exec jekyll build -d test
+  artifacts:  # Save a zipped version for download
+    paths:
+    - test
+  except:  # Execute for all branches except main
+  - main
+
+pages:
+  stage: deploy
+  script:  # Generate public site and deploy
+  - bundle exec jekyll build -d public
+  artifacts:  # Save a zipped version for download
+    paths:
+    - public
+  only:  # Only deploy the main branch
+  - main
