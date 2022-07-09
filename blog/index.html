@@ -42,10 +42,11 @@ title: vladiant blog
 <div class="row">
     <div class="column">
 	<ul class="posts">
-	  <a class="btn btn-rss" href="atom.xml" target="_blank">RSS</a>
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
+	  <p></p>
+	  subscribe <a class="btn btn-rss" href="atom.xml" target="_blank"></a>via RSS</a>
 	</ul>
     </div>
     <div class="column_tags">
