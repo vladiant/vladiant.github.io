@@ -22,7 +22,7 @@ pages:
   script:  # Generate public site and deploy
     - gem install jekyll
     - gem install jekyll-sitemap
-    - jekyll build -d public --watch
+    - jekyll build -d public
   artifacts:  # Save a zipped version for download
     paths:
     - public
