@@ -6,15 +6,15 @@ tags: c++ concurrency
 ---
 
 ## Testing the lock-free algorithms
-1) Define the requirements of the algorithm in a formal way
-2) Devise theoretical algorithm (pseudo code)
-3) Proof of correctness (by hand or automated theorem prover, e.g. TLA+)
-4) Implement algorithm
-5) Code review by experts
-6) Unit tests to check single-threaded correctness (necessary condition)
-7) Multi-threaded stress tests (check invariants, no data structure corruption)
-8) Code instrumentation for specific multi-threaded scenarios (open problem ...)
-9) Verification tools such as CppMem to check the data races etc. (for small code snippets)
+1. Define the requirements of the algorithm in a formal way
+2. Devise theoretical algorithm (pseudo code)
+3. Proof of correctness (by hand or automated theorem prover, e.g. TLA+)
+4. Implement algorithm
+5. Code review by experts
+6. Unit tests to check single-threaded correctness (necessary condition)
+7. Multi-threaded stress tests (check invariants, no data structure corruption)
+8. Code instrumentation for specific multi-threaded scenarios (open problem ...)
+9. Verification tools such as CppMem to check the data races etc. (for small code snippets)
 
 ## Our New Friend Compare Exchange
 * Allows us to implement useful algorithms to exchange data in a lock-free way
