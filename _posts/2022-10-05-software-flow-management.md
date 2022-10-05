@@ -7,7 +7,7 @@ tags: design ci cd
 
 ## Management styles
 | Feature | Pathological | Bureaucratic | Generative |
-| --  | -- | -- | -- |
+|---------|--------------|--------------|------------|
 | Main | Power-Oriented | Rule-Oriented | Performance-Oriented |
 | Cooperation | Low | Modest | High |
 | Messengers | "shot" (blamed) | Neglected | Trained |
