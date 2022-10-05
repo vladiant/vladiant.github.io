@@ -2,7 +2,7 @@
 layout: post
 title: "How I Write Code"
 date: 2022-07-29
-tags: deisgn development coding
+tags: design development coding
 ---
 
 ## Guidelines
