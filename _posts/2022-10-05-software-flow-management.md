@@ -6,6 +6,13 @@ tags: design ci cd
 ---
 
 ## Management styles
+
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 | Feature | Pathological | Bureaucratic | Generative |
 |---------|--------------|--------------|------------|
 | Main | Power-Oriented | Rule-Oriented | Performance-Oriented |
@@ -15,6 +22,7 @@ tags: design ci cd
 | Bridging (communication acrosss teams/silos) | Discouraged | Tolerated | Encouraged |
 | Failure | Leads to scapegoating | Leads to justice | Leads to inquiry |
 | Novelty | Crushed | Leads to problems | Implemented |
+{: .tablelines}
 
 ## How defects are prevented
 
