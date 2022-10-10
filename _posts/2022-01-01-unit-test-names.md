@@ -18,4 +18,4 @@ tags: test
 
 ## References
 * [7 Popular Unit Test Naming Conventions](https://dzone.com/articles/7-popular-unit-test-naming)
-* [The fundamentals of unit testing: Arrange, Act, Asser](http://defragdev.com/blog/?p=783)
+* [The fundamentals of unit testing: Arrange, Act, Assert](http://defragdev.com/blog/?p=783)
