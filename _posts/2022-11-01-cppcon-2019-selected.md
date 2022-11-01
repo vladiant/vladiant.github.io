@@ -1,0 +1,46 @@
+---
+layout: post
+title: "CppCon 2019 Selected"
+date: 2022-11-01
+tags: c++ c++11 c++14 c++17 c++20
+---
+
+## Selection
+* [Sorting Algorithms: Speed Is Found In The Minds of People - Andrei Alexandrescu](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
+* [Better Code: Relationships - Sean Parent](https://www.youtube.com/watch?v=ejF6qqohp3M)
+* [C++20: C++ at 40 - Bjarne Stroustrup](https://www.youtube.com/watch?v=u_ij0YNkFUs)
+* [De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable - Herb Sutter](https://www.youtube.com/watch?v=ARYP83yNAWk)
+* [Some Programming Myths Revisited - Patrice Roy](https://www.youtube.com/watch?v=KNqRjzSlUVo)
+* [When C++ Style Guides Contradict - Nicolai Josuttis](https://www.youtube.com/watch?v=WRQ1xqYBKgc)
+* [How to Write a Heap Memory Profiler - Milian Wolff](https://www.youtube.com/watch?v=YB0QoWI-g8E)
+* [Reflections: Compile-time Introspection of Source Code - Andrew Sutton ](https://www.youtube.com/watch?v=ARxj3dfF_h0)
+* [Naming is Hard: Let's Do Better - Kate Gregory](https://www.youtube.com/watch?v=MBRoCdtZOYg)
+* [Asynchronous Programming in Modern C++ - Hartmut Kaiser](https://www.youtube.com/watch?v=Hi5WnRNckm4)
+* [There Are No Zero-cost Abstractions - Chandler Carrut](https://www.youtube.com/watch?v=rHIkrotSwcc)
+* [Minimal Structured Logging for Autonomous Vehicles - Robert Keelan](https://www.youtube.com/watch?v=FyJI4Z6jD4w)
+* [Infiltrating a Code Base: Moving Toward a Better C - Brian Ruth](https://www.youtube.com/watch?v=muvUKqsmGWU)
+* [Safe Software for Autonomous Mobility With Modern C++ - Andreas Pasternak](https://www.youtube.com/watch?v=5WbdLUc9Jls)
+* [Structured Concurrency: Writing Safer Concurrent Code with Coroutines... - Lewis Baker](https://www.youtube.com/watch?v=1Wy5sq3s2rg)
+* [Faster Code Through Parallelism on CPUs and GPUs - David Olsen](https://www.youtube.com/watch?v=cbbKEAWf1ow)
+* [A Critical Look at the Coding Standards Landscape](https://www.youtube.com/watch?v=5XfSM-vDYUs)
+* [Writing Safety Critical Automotive Software for High Perf AI Hardware - Michael Wong](https://www.youtube.com/watch?v=F4GzsA00s5I)
+* [What is C++ - Chandler Carruth, Titus Winters](https://www.youtube.com/watch?v=LJh5QCV4wDg)
+* [The Best Parts of C++](https://www.youtube.com/watch?v=iz5Qx18H6lg)
+* [Atomics, Locks, and Tasks (part 1 of 2) - Rainer Grimm](https://www.youtube.com/watch?v=o0i2fc0Keo8)
+* [Atomics, Locks, and Tasks (part 2 of 2) - Rainer Grimm](https://www.youtube.com/watch?v=_eaB69ta_ig)
+* [Algorithm Intuition (part 1 of 2)](https://www.youtube.com/watch?v=pUEnO6SvAMo)
+* [Algorithm Intuition (part 2 of 2)](https://www.youtube.com/watch?v=sEvYmb3eKsw)
+* [Reducing Template Compilation Overhead, Using C++11, 14, 17, and 20. - Jorg Brown](https://www.youtube.com/watch?v=TyiiNVA1syk)
+* [What Programmers Should Know About Memory Allocation - S. Al Bahra, H. Sowa, P. Khuong](https://www.youtube.com/watch?v=gYfd25Bdmws)
+* [C++ Design Patterns: From C++03 to C++17 - Fedor Pikus](https://www.youtube.com/watch?v=MdtYi0vvct0)
+* [C++20: The small things - Timur Doumler](https://www.youtube.com/watch?v=Xb6u8BrfHjw)
+* [C++20: What's in it for you? - Marc Gregoire](https://www.youtube.com/watch?v=Y652wQqbYEI)
+* [Concurrency in C++20 and Beyond - Anthony Williams](https://www.youtube.com/watch?v=jozHW_B3D4U)
+* [The C++20 Synchronization Library - Bryce Adelstein Lelbach](https://www.youtube.com/watch?v=Zcqwb3CWqs4)
+* [Destructor Case Studies: Best Practices for Safe and Efficient Teardown](https://www.youtube.com/watch?v=XvWyLAW_U0Q)
+* [Deep CMake for Library Authors - Craig Scott](https://www.youtube.com/watch?v=m0DwB4OvDXk)
+* [C++ Code Smells - Jason Turner](https://www.youtube.com/watch?v=f_tLQl0wLUM)
+* [Avoid Misuse of Contracts! - Rostislav Khlebnikov](https://www.youtube.com/watch?v=KFJ5p-T-S7Q)
+* [This Videogame Programmer Used the STL and You Will Never Guess What Happened Next - Mathieu Ropert](https://www.youtube.com/watch?v=6hC9IxqdDDw)
+* [The Business Value of a Good API - Bob Steagall](https://www.youtube.com/watch?v=S7gGtYqtNNo)
+* [Non-conforming C++: the Secrets the Committee Is Hiding From You - Miro Knejp](https://www.youtube.com/watch?v=IAdLwUXRUvg)
