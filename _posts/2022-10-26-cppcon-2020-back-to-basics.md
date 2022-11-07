@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CppCon 2020 Back To Basics"
-date: 2022-09-29
+date: 2022-10-26
 tags: c++
 ---
 
