@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Performance Portability Lessons"
 date: 2022-11-23
-tags: c++ performance coding
+tags: c++ performance coding design
 ---
 
 ## Lesson 1
