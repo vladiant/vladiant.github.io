@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RAII Design Guidelines"
-date: 2023-12-06
+date: 2023-01-05
 tags: c++ design interface
 ---
 
