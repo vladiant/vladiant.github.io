@@ -81,5 +81,5 @@ endif()
 * [Modern CMake Best Practices for Library Authors by Alex Reinking - San Diego C++ Meetup 7/11/2023](https://www.youtube.com/watch?v=bemvHlcz1Qc)
 * [SD C++ Meetup 2023](https://www.dropbox.com/sh/c1u1g54o3ez7tua/AADe99hgeXXCM2-4NzxamCwBa?dl=0)
 * <https://github.com/alexreinking/sdcppmu-diffuse>
-* [Building a Dual Shared and Static Library with CMake
-](https://alexreinking.com/blog/building-a-dual-shared-and-static-library-with-cmake.html)
+* [Building a Dual Shared and Static Library with CMake](https://alexreinking.com/blog/building-a-dual-shared-and-static-library-with-cmake.html)
+* <https://github.com/ComicSansMS/cpp_modules_includes>
