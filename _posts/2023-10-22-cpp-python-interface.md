@@ -52,4 +52,5 @@ tags: c++ python design interface performance
 * [Saksham Sharma](https://sakshamsharma.com/)
 * <https://github.com/sakshamsharma>
 * [Embedding Python in Another Application — Python 3.10.4 documentation](https://docs.python.org/3/extending/embedding.html)
+* [Python Bindings: Calling C or C++ From Python](https://realpython.com/python-bindings-overview/)
 
