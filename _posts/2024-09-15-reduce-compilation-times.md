@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Reduce Compilation Times"
+title: "Reduce Compilation Times C++"
 date: 2024-09-15
 tags: c++ development performance
 ---
