@@ -2,7 +2,7 @@
 layout: post
 title: "Function API profiling"
 date: 2024-11-29
-tags: c++ performance desing
+tags: c++ performance design
 ---
 
 ## Examples
