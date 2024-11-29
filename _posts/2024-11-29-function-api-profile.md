@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CppCon 2024 Selected"
+title: "Function API profiling"
 date: 2024-11-29
 tags: c++ performance desing
 ---
