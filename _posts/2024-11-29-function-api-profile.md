@@ -7,6 +7,47 @@ tags: c++ performance desing
 
 ## Examples
 
+### Compiler flags
+* GCC, Clang : `-O2 -std=c++20`
+* MSVC : `-O2 /std:c++20`
+* 32 bit Linux : `-O2 -std=c++20 -m32`
+
+### Return std::unique_ptr
+```
+#include <memory>
+
+std::unique_ptr<int> value_ptr() {
+    return nullptr;
+}
+
+void output_ptr(std::unique_ptr<int>& dst) {
+    dst = nullptr;
+}
+
+```
+* <https://godbolt.org/z/ea9M3G94s>
+
+### Return std::unique_ptr : call site
+```
+#include <memory>
+
+std::unique_ptr<int> value_ptr();
+void output_ptr(std::unique_ptr<int>& dst);
+
+int value_ptr_call() {
+    auto ptr = value_ptr();
+    return *ptr;
+}
+
+int output_ptr_call() {
+    std::unique_ptr<int> ptr;
+    output_ptr(ptr);
+    return *ptr;
+}
+
+```
+* <https://godbolt.org/z/G9aPehqM1>
+
 ### Return by value vs output parameter
 ```
 #include <memory>
