@@ -27,6 +27,7 @@ Advantages:
 * fast
 * small overhead
 * scoped
+
 Disadvantages:
 * code changes required
 * compile and link required
@@ -35,20 +36,23 @@ Disadvantages:
 Advantages:
 * no code change required
 * fast
+
 Disadvantages:
 * compile and link required
 * extra memory cost
 
 ### Valgrind (memcheck and massif)
-[Memcheck: a memory error detector](https://valgrind.org/docs/manual/mc-manual.html)
-[Massif: a heap profiler](https://valgrind.org/docs/manual/ms-manual.html)
+* [Memcheck: a memory error detector](https://valgrind.org/docs/manual/mc-manual.html)
+* [Massif: a heap profiler](https://valgrind.org/docs/manual/ms-manual.html)
 
 Advantages:
 * no code change required
 * no compile and link required
+
 Disadvantages:
 * slow (10-30 times slower)
 * extra memory cost
+
 [KDE massif-visualizer](https://github.com/KDE/massif-visualizer)
 
 ## Memory leaks: Tips
