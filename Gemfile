@@ -4,3 +4,4 @@ gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 gem "logger"
 gem 'csv'
+gem 'base64'
