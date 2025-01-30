@@ -33,7 +33,7 @@ tags: c++ c++26
 * std::execution: <https://godbolt.org/z/3cseorf7M>
 
 ## Reference
-* [C++26: an overview - Rainer Grimm - Meeting C++ 2024](https://www.youtube.com/watch?v=PCP3ckEqYK8)
+* [C++26: an overview - Rainer Grimm - Meeting C++ 2024](https://www.youtube.com/watch?v=WUjHo5NbDBw)
 * [Archive for category C++26](https://www.modernescpp.com/index.php/category/blog/c26-blog/)
 * <https://github.com/RainerGrimm/ModernesCppSource>
 
