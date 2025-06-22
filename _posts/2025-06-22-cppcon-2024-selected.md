@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CppCon 2024 Selected"
-date: 2024-06-22
+date: 2025-06-22
 tags: c++ c++26 c++23 c++20
 ---
 
@@ -55,5 +55,4 @@ tags: c++ c++26 c++23 c++20
 * [Rvalues and Move Semantics in C++ - Amir Kirsh](https://www.youtube.com/watch?v=i_Z_o9T2fNE)
 * [Object-Oriented Programming in C++ - Andreas Fertig](https://www.youtube.com/watch?v=SuubuqI4gVA)
 * [Lifetime Management in Cpp - Phil Nash](https://www.youtube.com/watch?v=aMvIv6blzBs)
-
 
