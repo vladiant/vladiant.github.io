@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CppCon 2024 Selected"
+title: "CppCon 2023 Selected"
 date: 2024-10-19
 tags: c++ c++26 c++23 c++20
 ---
