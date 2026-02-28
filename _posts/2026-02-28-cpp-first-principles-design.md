@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C++ First Principles Design"
-date: 2026-02-17
+date: 2026-02-28
 tags: c++ design
 ---
 
