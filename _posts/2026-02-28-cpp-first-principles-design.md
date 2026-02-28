@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Cross Team Communication Development Roadmap"
+title: "C++ First Principles Design"
 date: 2026-02-17
 tags: c++ design
 ---
 
-## Add mew operations to C++ classes
+## Add new operations to C++ classes
 * [Visitor](https://refactoring.guru/design-patterns/visitor)
 * [std::visit](https://en.cppreference.com/w/cpp/utility/variant/visit2.html)
 
