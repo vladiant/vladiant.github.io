@@ -60,7 +60,6 @@ Refactor this code to improve readability and maintainability.
 ### Replacing the for loop with list comprehension
 ```
 Rewrite this Python code using list comprehension.
-
 ```
 
 ### Switching to smart pointers in C++
@@ -77,7 +76,6 @@ Generate a docstring for this function in Google or NumPy format describing the 
 ```
 Update this C++ code to use auto and range-based for where appropriate.
 ```
-
 
 ### References
 * [6 советов от практиков AI coding](https://habr.com/ru/articles/997098/)
