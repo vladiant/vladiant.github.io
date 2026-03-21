@@ -73,4 +73,4 @@ int main() {
 * <https://github.com/lemire/Code-used-on-Daniel-Lemire-s-blog/blob/master/2025/06/21/sqlinsert.h>
 * [Barry's C++ Blog: Reflecting JSON into C++ Objects](https://brevzin.github.io/c++/2025/06/26/json-reflection/)
 * [C++26 Reflections adventures & compile time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
-* [C++26 Reflections adventures & compile time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
+
