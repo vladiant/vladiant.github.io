@@ -10,7 +10,7 @@ tags: c++ c++26
 * [Parse JSON](https://godbolt.org/z/3jzehW1bv)
 * [Cmdline Options Parser](https://godbolt.org/z/P6jeKK3of)
 * [Ad-hoc polymorphism](https://godbolt.org/z/MEPvEMbqP)
-* [Reflection ad-hoc polyt<T>](https://godbolt.org/z/aP4dKfqjo)
+* [Reflection ad-hoc poly T](https://godbolt.org/z/aP4dKfqjo)
 * ["interface" metafunction](https://godbolt.org/z/98P4qK36o)
 * ["interface" now in EDG](https://godbolt.org/z/7jv9aj8Mh)
 
@@ -26,7 +26,8 @@ tags: c++ c++26
 ## Misc C++ Reflection examples
 
 * [Enum](https://godbolt.org/z/W71TqodsW)
-```
+
+```cpp
 #include <iostream>
 #include <meta>
 
