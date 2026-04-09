@@ -2,7 +2,7 @@
 layout: post
 title: "Image Prompts"
 date: 2026-01-17
-tags: ai
+tags: ai prompts
 ---
 
 ## A multi-photo session with different emotions

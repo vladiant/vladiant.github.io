@@ -2,7 +2,7 @@
 layout: post
 title: "Event Sourcing Design Pattern"
 date: 2025-02-22
-tags: design development
+tags: design development distributed
 ---
 
 ## Context

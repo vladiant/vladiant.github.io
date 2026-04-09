@@ -2,7 +2,7 @@
 layout: post
 title: "Real-time C++ Programming"
 date: 2022-07-09
-tags: c++ development memory debug performance
+tags: c++ development memory debug performance real_time
 ---
 
 ## Use cases

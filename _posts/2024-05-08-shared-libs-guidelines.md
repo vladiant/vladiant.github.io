@@ -2,7 +2,7 @@
 layout: post
 title: "Shared Libraries Guidelines"
 date: 2024-05-08
-tags: c++ performance development
+tags: c++ performance development binary
 ---
 
 ## Symbol Resolution Time

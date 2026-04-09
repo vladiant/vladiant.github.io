@@ -2,7 +2,7 @@
 layout: post
 title: "Programming AI Prompts"
 date: 2026-03-09
-tags: ai c++ python
+tags: ai c++ python prompts
 ---
 
 ## Guidelines

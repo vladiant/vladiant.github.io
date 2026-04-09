@@ -2,7 +2,7 @@
 layout: post
 title: "Programminng Prompts"
 date: 2026-04-09    
-tags: ai
+tags: ai prompts
 ---
 
 ## Guidelines

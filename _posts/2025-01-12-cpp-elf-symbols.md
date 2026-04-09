@@ -2,7 +2,7 @@
 layout: post
 title: "C++ ELF symbols"
 date: 2025-01-12
-tags: c++ design development debug
+tags: c++ design development debug binary
 ---
 
 ## Sections

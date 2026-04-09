@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Reduce Binary Size"
 date: 2025-02-12
-tags: c++ coding development performance template
+tags: c++ coding development performance template binary
 ---
 
 ## Note

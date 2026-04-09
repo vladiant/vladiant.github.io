@@ -2,7 +2,7 @@
 layout: post
 title: "Ultimate Prompt"
 date: 2026-01-07
-tags: ai
+tags: ai prompts
 ---
 
 ## The Ultimate ChatGPT 5 Prompt

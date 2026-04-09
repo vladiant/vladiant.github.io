@@ -2,7 +2,7 @@
 layout: post
 title: "Two Phase Commit Protocol"
 date: 2025-03-07
-tags: design development
+tags: design development distributed
 ---
 
 ## Context
