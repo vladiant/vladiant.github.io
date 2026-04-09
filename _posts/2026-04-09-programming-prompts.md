@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programminng Prompts"
-date: 2026-03-16    
+date: 2026-04-09    
 tags: ai
 ---
 
