@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Real Time Safety"
 date: 2024-12-31
-tags: c++ design development peformance
+tags: c++ design development performance
 ---
 
 ## Real-time programming
