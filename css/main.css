@@ -313,7 +313,7 @@ ul.posts li {
 }
 
 .site-footer {
-    padding: 40px 24px 56px;
+    padding: 28px 24px 40px;
     text-align: center;
     color: var(--text-dim);
     font-size: 0.85rem;
@@ -321,22 +321,33 @@ ul.posts li {
 
 .footer-inner {
     display: grid;
-    gap: 14px;
+    gap: 12px;
     justify-items: center;
 }
 
-.site-footer ul {
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 18px;
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
 .site-footer a {
-    color: var(--text-dim);
+    color: var(--amber);
+    font-family: var(--mono);
+    font-size: 0.9rem;
 }
 
 .site-footer a:hover {
-    color: var(--amber);
+    color: var(--text-bright);
+}
+
+.footer-copy {
+    color: var(--text-dim);
+    font-size: 0.9rem;
 }
 
 @media (max-width: 900px) {
