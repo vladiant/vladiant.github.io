@@ -2,49 +2,77 @@
 layout: default
 title: vladiant
 ---
-<div class="blurb">
-	<h1>The Developer Site of Vladislav Antonov</h1>
+<main class="home-page">
+	<section class="hero">
+		<p class="hero-kicker">Target Role: Platform and Backend Engineering</p>
+		<h1>Vladislav Antonov</h1>
+		<p class="hero-summary">
+			I build reliable backend platforms and distributed services in modern C++, Python, and cloud-native environments.
+			The projects below are ordered to highlight production architecture, scalability, observability, and delivery discipline.
+		</p>
+		<div class="hero-links">
+			<a class="btn" href="https://github.com/vladiant">GitHub</a>
+			<a class="btn" href="https://gitlab.com/vladiant">GitLab</a>
+			<a class="btn" href="https://www.linkedin.com/in/vladiant/">LinkedIn</a>
+			<a class="btn" href="/blog/">Technical Blog</a>
+		</div>
+	</section>
 
-	<h2>C++ Examples</h2>
+	<section class="skills-overview">
+		<h2>Core Strengths</h2>
+		<ul class="skill-list">
+			<li>Modern C++ (C++17/20/23) and performance-oriented architecture</li>
+			<li>Distributed systems with Kafka, gRPC, event-driven patterns, and saga flows</li>
+			<li>Computer vision and image processing with OpenCV, CUDA, OpenCL, Vulkan, and OpenGL</li>
+			<li>Cloud-native delivery with Docker, Kubernetes, observability, and CI/CD automation</li>
+		</ul>
+	</section>
 
-	<ul>
-		<li><a href="https://github.com/vladiant/CppConcurrencyPatterns">Concurrency Patterns</a></li>
-		<li><a href="https://github.com/vladiant/CppDesignPatterns">Design Patterns</a></li>
-		<li><a href="https://github.com/vladiant/CppNetwork">Networking</a></li>
-		<li><a href="https://github.com/vladiant/CppFuzzerExample">Fuzzer Example</a></li>
-		<li><a href="https://github.com/vladiant/CppExceptions">Exceptions</a></li>
-		<li><a href="https://github.com/vladiant/CppParallelSTL">Parallel STL</a></li>
-		<li><a href="https://github.com/vladiant/CppFloatPoint">Float Point</a></li>
-	</ul>
-   
-	<h2>C++ CI/CD template</h2>
+	<section class="featured-projects">
+		<h2>Featured Projects</h2>
+		<div class="project-grid">
+			<article class="project-card">
+				<h3><a href="https://github.com/vlantonov/CommerceSystemDemo">CommerceSystemDemo</a></h3>
+				<p>Production-style e-commerce backend with layered architecture, async PostgreSQL access, latency tuning, and complete metrics, traces, and logs for operational reliability.</p>
+			</article>
+			<article class="project-card">
+				<h3><a href="https://github.com/vlantonov/ImageProcessingServiceDemo">ImageProcessingServiceDemo</a></h3>
+				<p>Microservices-ready backend with FastAPI, PostgreSQL, Kafka, Kubernetes, and OpenTelemetry, demonstrating event-driven processing and deployable cloud-native architecture.</p>
+			</article>
+			<article class="project-card">
+				<h3><a href="https://github.com/vladiant/CppConcurrencyPatterns">CppConcurrencyPatterns</a></h3>
+				<p>Practical C++ concurrency reference covering active object, reactor, lock-free data structures, and synchronization strategies for robust high-throughput services.</p>
+			</article>
+			<article class="project-card">
+				<h3><a href="https://github.com/vlantonov/grpc_samples">grpc_samples</a></h3>
+				<p>C++ and Python gRPC examples for unary and streaming RPC, with build automation and service health patterns relevant to distributed system communication.</p>
+			</article>
+			<article class="project-card">
+				<h3><a href="https://github.com/vlantonov/KafkaTutorial">KafkaTutorial</a></h3>
+				<p>Hands-on Kafka integration examples across C, C++, and Python, useful for validating event-driven pipelines and messaging workflow fundamentals.</p>
+			</article>
+			<article class="project-card">
+				<h3><a href="https://github.com/vladiant/test_cpp_ci">test_cpp_ci</a></h3>
+				<p>C++ CI template with static analysis, sanitizers, valgrind, and automated checks, showcasing quality gates used to keep large codebases maintainable.</p>
+			</article>
+			<article class="project-card">
+				<h3><a href="https://github.com/vladiant/CascadeClassifier">CascadeClassifier</a></h3>
+				<p>Modernized legacy OpenCV cascade training stack with tooling and CI, representing deep C++ codebase maintenance and computer vision engineering expertise.</p>
+			</article>
+			<article class="project-card">
+				<h3><a href="https://github.com/vladiant/color2gray">color2gray</a></h3>
+				<p>Algorithm-focused CV project with CUDA, OpenCL, Vulkan, and OpenGL compute implementations, demonstrating optimization across multiple GPU backends.</p>
+			</article>
+		</div>
+	</section>
 
-	<ul>
-		<li><a href="https://github.com/vladiant/test_cpp_ci">GitHub actions</a></li>
-		<li><a href="https://gitlab.com/vladiant/cpp_ci_example">Gitlab pipeline</a></li>
-	</ul>
-
-	<h2>C++ Standard Examples</h2>
-
-	<ul>
-		<li><a href="https://github.com/vladiant/Cpp23examples">C++23</a></li>
-		<li><a href="https://github.com/vladiant/Cpp20examples">C++20</a></li>
-		<li><a href="https://github.com/vladiant/Cpp17examples">C++17</a></li>
-	</ul>
-
-	<h2>Computer Vision</h2>
-
-	<ul>
-		<li><a href="https://github.com/vladiant/CascadeClassifier">Haar Cascade Classifier implementation, tools and docs</a></li>
-		<li><a href="https://github.com/vladiant/ObjectDetectSamples">Object Classification and Detection samples</a></li>
-		<li><a href="https://github.com/vladiant/ComputerVisionUtils">Computer Vision Utilities</a></li>
-	</ul>
-
-	<h2>Algorithmic Trading</h2>
-
-	<ul>
-		<li><a href="https://github.com/vladiant/AlgorithmicTrading">Snippets and Utils for Algorithmic Trading</a></li>
-	</ul>
-
-
-</div><!-- /.blurb -->
+	<section class="next-step">
+		<h2>Explore Further</h2>
+		<p>For technical notes, architecture discussions, and implementation details, continue with the blog and project repositories.</p>
+		<div class="hero-links">
+			<a class="btn" href="/about/">About</a>
+			<a class="btn" href="/blog/">Blog</a>
+			<a class="btn" href="https://github.com/vladiant?tab=repositories">All Repositories</a>
+		</div>
+	</section>
+</main>
