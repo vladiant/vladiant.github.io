@@ -1,29 +1,35 @@
 <!DOCTYPE html>
 	<html>
 		<head>
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			{% include analytics.html %}
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about/">About</a></li>
-	        		<li><a href="/blog/">Blog</a></li>
-				<li><a href="https://www.linkedin.com/in/vladiant/">LinkedIn</a></li>
-	    		</ul>
+			<nav class="site-nav">
+				<div class="wrap nav-inner">
+					<div class="brand"><span>vladiant</span>@portfolio</div>
+					<ul>
+		        		<li><a href="/">Home</a></li>
+	        				<li><a href="/about/">About</a></li>
+	        				<li><a href="/blog/">Blog</a></li>
+						<li><a href="https://www.linkedin.com/in/vladiant/">LinkedIn</a></li>
+					</ul>
+				</div>
 			</nav>
 			<div class="container">
-			
+
 			{{ content }}
-			
+
 			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="https://github.com/vladiant">github.com/vladiant</a></li>
-				</ul>
+			<footer class="site-footer">
+				<div class="wrap footer-inner">
+					<ul>
+		        		<li><a href="https://github.com/vladiant">github.com/vladiant</a></li>
+					</ul>
+				</div>
 			</footer>
 		</body>
 	</html>
