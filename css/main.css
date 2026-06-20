@@ -70,9 +70,12 @@ nav.site-nav {
 .nav-inner {
     display: flex;
     align-items: center;
-    justify-content: space-between;
     min-height: 56px;
     gap: 16px;
+}
+
+nav.site-nav ul {
+    margin-left: auto;
 }
 
 .brand {
@@ -96,7 +99,6 @@ nav.site-nav ul {
     font-family: var(--mono);
     font-size: 0.85rem;
     flex-wrap: wrap;
-    justify-content: flex-end;
 }
 
 nav.site-nav ul li a {
