@@ -94,7 +94,7 @@ The heartbeat of your application. They tell you what is happening, when it happ
 * `Use cases` Request counts, error counts, bytes processed 
 * `Example` http.requests.total, database.connections.created
 
-## UpDownCounter
+### UpDownCounter
 * Values that can increase or decrease.
 * `Use cases` Active connections, queue sizes, memory usage
 * `Example` http.active_requests, database.connections.active
