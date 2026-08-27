@@ -59,12 +59,14 @@ Current featured 8 and why each was chosen (thematic slot in brackets):
 | ImageProcessingServiceDemo | vlantonov/ImageProcessingServiceDemo | [backend] Cloud-native, Kafka, Kubernetes, Clean Architecture |
 | SimpleBankingTaskDemo | vlantonov/SimpleBankingTaskDemo | [C++ systems] Layered C++ ATM service, HTTP adapter, acceptance/BDD TDD, actively developed |
 | MobileNetworkOperatorDemo | vlantonov/MobileNetworkOperatorDemo | [C++ systems] C++17 billing engine, spec-driven design, warnings-as-errors + ctest quality gates |
-| CppConcurrencyPatterns | vladiant/CppConcurrencyPatterns | [C++ systems] 25 stars, 2 forks — highest community validation |
+| voipscope | vlantonov/voipscope | [C++ systems] C++20 offline VoIP analyzer — from-scratch RFC 3261 SIP parser + RFC 3550 RTP jitter/MOS, dialog FSM, GoogleTest, actively developed |
 | color2gray | vladiant/color2gray | [CV/GPU] CUDA + OpenCL + Vulkan + OpenGL — GPU compute breadth |
 | CascadeClassifier | vladiant/CascadeClassifier | [CV/GPU] Multi-platform CI, C++17, legacy OpenCV modernization |
 | test_cpp_ci | vladiant/test_cpp_ci | [quality] Sanitizers, valgrind, static analysis — the single allowed CI-template slot |
 
 **Not featured** (demoted — scaffolding/tutorial-level scope, crowd out depth): `test_golang_ci`, `test_java_ci`, `test_python_ci`, `grpc_samples`, `KafkaTutorial`. The Go/Java/Python CI templates remain strong hygiene artifacts but are represented by the single `test_cpp_ci` slot per the breadth guard.
+
+**Rotated out** (still strong, but not featured): `CppConcurrencyPatterns` (vladiant, 26 stars) — a concurrency *patterns reference* whose primary signal is community validation. Per criteria 1 and 4, external validation is a tie-breaker, never the main reason to feature, so it yields its C++ systems slot to `voipscope`, a substantive domain-modeled system under active development. Reinstate it if the newer system stalls or its own validation/depth grows materially.
 
 ### How to Update Featured Projects
 
