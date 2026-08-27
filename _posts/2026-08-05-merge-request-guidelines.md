@@ -72,9 +72,9 @@ A short checklist at the end signals rigor to anyone evaluating the repo:
 * GitHub's internal guidelines for writing pull requests recommend stating the purpose of the PR plainly and providing an overview of why the change is needed.
 
 ### References:
-- Google Engineering Practices — "Writing Good CL Descriptions": https://google.github.io/eng-practices/review/developer/cl-descriptions.html
-- Conventional Commits specification (v1.0.0): https://www.conventionalcommits.org/en/v1.0.0/
-- GitHub Docs — "Helping others review your changes" / best practices for pull requests: https://docs.github.com/en/enterprise-server@3.12/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests
-- GitHub Blog — "How to write the perfect pull request": https://github.blog/developer-skills/github/how-to-write-the-perfect-pull-request/
+- Google Engineering Practices — "Writing Good CL Descriptions": <https://google.github.io/eng-practices/review/developer/cl-descriptions.html>
+- Conventional Commits specification (v1.0.0): <https://www.conventionalcommits.org/en/v1.0.0/>
+- GitHub Docs — "Helping others review your changes" / best practices for pull requests: <https://docs.github.com/en/enterprise-server@3.12/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests>
+- GitHub Blog — "How to write the perfect pull request": <https://github.blog/developer-skills/github/how-to-write-the-perfect-pull-request/>
 
 
