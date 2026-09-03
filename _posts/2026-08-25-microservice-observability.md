@@ -138,4 +138,4 @@ The heartbeat of your application. They tell you what is happening, when it happ
 
 ## Reference
 * [OpenTelemetry Traces & Spans Explained](https://oneuptime.com/blog/post/2025-08-27-traces-and-spans-in-opentelemetry/view)
-* [What are metrics in OpenTelemetry: A Complete Guide](hhttps://oneuptime.com/blog/post/2025-08-26-what-are-metrics-in-opentelemetry/view)
+* [What are metrics in OpenTelemetry: A Complete Guide](https://oneuptime.com/blog/post/2025-08-26-what-are-metrics-in-opentelemetry/view)
