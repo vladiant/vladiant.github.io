@@ -7,6 +7,8 @@ tags: design ai
 
 4-Week System Design Study Plan
 
+---
+
 ## Week 1 - Fundamentals: Scalability, Availability, Components
 
 **Goal:** Build a mental model of what "system design" even covers before touching distributed systems specifics.
