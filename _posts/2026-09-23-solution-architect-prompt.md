@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solution Architect Prompt"
-date: 2026-09-24    
+date: 2026-09-23    
 tags: design ai
 ---
 
