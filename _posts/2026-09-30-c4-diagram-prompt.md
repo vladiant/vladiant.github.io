@@ -2,7 +2,7 @@
 layout: post
 title: "C4 Diagram Prompt"
 date: 2026-09-30    
-tags: design ai
+tags: design ai prompts
 ---
 
 ```

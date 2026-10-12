@@ -2,7 +2,7 @@
 layout: post
 title: "Software Architect Prompt"
 date: 2026-08-17    
-tags: development ai
+tags: development ai prompts
 ---
 
 ## General Definition

@@ -2,7 +2,7 @@
 layout: post
 title: "Functional Analyst Prompt"
 date: 2026-09-17    
-tags: design ai
+tags: design ai prompts
 ---
 
 ```
