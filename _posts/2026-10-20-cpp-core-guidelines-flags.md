@@ -290,12 +290,14 @@ set(CMAKE_CXX_CLANG_TIDY clang-tidy;--config-file=${CMAKE_SOURCE_DIR}/.clang-tid
 ```
 
 ## clang-tidy
+```
 | Profile      | Primary checks                                                                           |
 |--------------|------------------------------------------------------------------------------------------|
 | **Type**     | `cppcoreguidelines-pro-type-*`, `modernize-avoid-c-style-cast`                           |
 | **Bounds**   | `cppcoreguidelines-pro-bounds-*`                                                         |
 | **Lifetime** | `cppcoreguidelines-owning-memory`, `bugprone-use-after-move`, `bugprone-dangling-handle` |
 | **Owner<>**  | `cppcoreguidelines-no-malloc`, `cppcoreguidelines-owning-memory`                         |
+```
 
 Note
 - All 31 `cppcoreguidelines-*` checks enabled
