@@ -2,7 +2,7 @@
 layout: post
 title: "Observability Notes"
 date: 2026-09-03
-tags: development design coding distributed
+tags: development design coding distributed observability
 ---
 
 ## Guidelines

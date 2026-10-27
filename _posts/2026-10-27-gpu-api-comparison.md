@@ -2,7 +2,7 @@
 layout: post
 title: "GPU API Comparison"
 date: 2026-10-27
-tags: c++ ai coding performance vision
+tags: c++ ai coding performance vision gpu
 ---
 
 ## One Algorithm, Four GPU APIs: CUDA vs OpenCL vs Vulkan vs OpenGL Compute

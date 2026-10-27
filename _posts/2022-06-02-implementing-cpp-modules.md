@@ -2,7 +2,7 @@
 layout: post
 title: "Implementing C++ Modules"
 date: 2022-06-02
-tags: c++ design
+tags: c++ design modules
 ---
 
 ## Design Coals

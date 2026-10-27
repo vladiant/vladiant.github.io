@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Dependency Problems"
 date: 2024-12-26
-tags: c++ design development 
+tags: c++ design development
 ---
 
 ## Problem 1: ABI incompatible C++ binaries

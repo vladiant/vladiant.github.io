@@ -2,7 +2,7 @@
 layout: post
 title: "Microservice Observability"
 date: 2026-08-25
-tags: development design coding distributed
+tags: development design coding distributed observability
 ---
 
 ## Concepts

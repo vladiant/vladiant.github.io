@@ -2,7 +2,7 @@
 layout: post
 title: "Self-learning Materials for Automotive Developers"
 date: 2022-01-22
-tags: automotive books c++ 
+tags: automotive books c++
 ---
 
 ## C / C++ Programming

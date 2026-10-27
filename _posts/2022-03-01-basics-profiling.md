@@ -2,7 +2,7 @@
 layout: post
 title: "Basics of Profiling"
 date: 2022-03-01
-tags: c++ performance debug
+tags: c++ performance debug profiling
 ---
 
 > Here's how I found what was slow.

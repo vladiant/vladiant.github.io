@@ -2,7 +2,7 @@
 layout: post
 title: "Important Microsertvice Metrics"
 date: 2025-07-12
-tags: development design coding distributed
+tags: development design coding distributed observability
 ---
 
 ## 1. Latency

@@ -2,6 +2,7 @@
 layout: post
 title: "vladiant Site Launched"
 date: 2021-01-23
+tags: github
 ---
 
 The look of [hankquinlan.github.io/](http://hankquinlan.github.io/) was chosen.

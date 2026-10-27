@@ -2,7 +2,7 @@
 layout: post
 title: "Parallelism Guidelines "
 date: 2023-04-29
-tags: c++ concurrency development 
+tags: c++ concurrency development
 ---
 
 ## Deadlock guidelines

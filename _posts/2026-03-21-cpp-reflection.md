@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Reflection Proposal"
 date: 2026-03-21    
-tags: c++ c++26 
+tags: c++ c++26
 ---
 
 ## Herb Sutter's examples

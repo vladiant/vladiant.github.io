@@ -2,7 +2,7 @@
 layout: post
 title: "Modern CMake"
 date: 2025-02-01
-tags: cmake development make 
+tags: cmake development make
 ---
 
 ## Useful commands

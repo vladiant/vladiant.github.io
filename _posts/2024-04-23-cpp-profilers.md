@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Profilers"
 date: 2024-04-23
-tags: c++ performance development
+tags: c++ performance development profiling
 ---
 
 ## Github sourced

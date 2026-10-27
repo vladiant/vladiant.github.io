@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Memory management"
 date: 2024-12-13
-tags: c++ memory cache allocation 
+tags: c++ memory cache allocation
 ---
 
 ## Overview

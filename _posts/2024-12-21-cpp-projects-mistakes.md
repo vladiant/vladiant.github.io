@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Project Mistakes"
 date: 2024-12-21
-tags: c++ design development 
+tags: c++ design development
 ---
 
 ## Recommendations
