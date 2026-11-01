@@ -58,7 +58,7 @@ Current featured 8 and why each was chosen (thematic slot in brackets):
 | CommerceSystemDemo | vlantonov/CommerceSystemDemo | [backend] Production backend, async PostgreSQL, full OTel stack, live on Render |
 | ChoreographySagaDemo | vlantonov/ChoreographySagaDemo | [backend] Polyglot (Go/Python/C++) choreography saga — transactional outbox, idempotent consumers, database-per-service, gRPC + Kafka, 3-signal observability, documented SRS/architecture/QA |
 | SimpleBankingTaskDemo | vlantonov/SimpleBankingTaskDemo | [C++ systems] Layered C++ ATM service, HTTP adapter, acceptance/BDD TDD, actively developed |
-| MobileNetworkOperatorDemo | vlantonov/MobileNetworkOperatorDemo | [C++ systems] C++17 billing engine, spec-driven design, warnings-as-errors + ctest quality gates |
+| cv-inference-server | vlantonov/cv-inference-server | [C++ systems] Real-time C++20 CV model-serving system — dynamic request batching against a latency budget, fair compute scheduling with backpressure, Prometheus observability, benchmark harness, CPU/GPU auto-gated backends |
 | voipscope | vlantonov/voipscope | [C++ systems] C++20 offline VoIP analyzer — from-scratch RFC 3261 SIP parser + RFC 3550 RTP jitter/MOS, dialog FSM, GoogleTest, actively developed |
 | color2gray | vladiant/color2gray | [CV/GPU] CUDA + OpenCL + Vulkan + OpenGL — GPU compute breadth |
 | BlindDeconvolution | vladiant/BlindDeconvolution | [CV/GPU] CVPR 2011 normalized-sparsity deblurring in C++ — bit-exact C++17→C++20 modernization as a reusable library, 3 stars, documented QA |
@@ -71,6 +71,8 @@ Current featured 8 and why each was chosen (thematic slot in brackets):
 `ImageProcessingServiceDemo` (vlantonov) — a solid clean-architecture cloud-native service (FastAPI/Kafka/Kubernetes/OTel); yields its backend slot to `ChoreographySagaDemo`, a deeper distributed-transaction system that adds saga choreography, transactional outbox, idempotency, and documented SRS/architecture/QA. Reinstate if a single-service cloud-native + Kubernetes example is needed again.
 
 `CascadeClassifier` (vladiant, 1 star) — legacy OpenCV cascade-training modernization; yields its CV/GPU slot to `BlindDeconvolution`, which demonstrates the same modernization discipline over a deeper CVPR 2011 algorithm, with a reusable library, bit-exact C++20 parity + QA report, and stronger validation (3 stars). Reinstate if a dedicated OpenCV-pipeline example is needed again.
+
+`MobileNetworkOperatorDemo` (vlantonov) — a spec-driven C++17 billing engine with warnings-as-errors + ctest quality gates; yields its C++ systems slot to `cv-inference-server`, a deeper C++20 serving *system* that adds dynamic request batching against a latency budget, fair compute scheduling with backpressure, Prometheus observability, a reproducible benchmark harness, and auto-gated CPU/GPU backends (criteria 1 and 3). Reinstate if a focused domain-modeling + quality-gate example is needed again, or if the serving system stalls.
 
 ### How to Update Featured Projects
 
