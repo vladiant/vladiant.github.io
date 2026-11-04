@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "C++ Visual Studion Code Extensions"
+title: "C++ Visual Studio Code Extensions"
 date: 2026-11-04    
 tags: c++ coding vscode development
 ---
