@@ -2,7 +2,7 @@
 layout: post
 title: "C++ Structured Concurrency"
 date: 2026-11-11    
-tags: c++ coding vscode development
+tags: c++ concurrency development
 ---
 
 ## Summary
@@ -40,5 +40,5 @@ tags: c++ coding vscode development
   * Alternatively be creative with the `co_await` return type (`std::expected` ?)
 
 ## References
-* [Why Structured Concurrency is the Future of C++ | Roi Barkan](https://www.youtube.com/watch?v=ttoQfPP_Gkg)
-* [Why Structured Concurrency is the Future of C++ | Roi Barkan - slides](https://docs.google.com/presentation/d/1tCQD6qSimgOJ_5EZ2pxbvzV6KLynmRaF-R33KzwCCDk/present?slide=id.g39acee9f8e5_0_699)
+* [Why Structured Concurrency is the Future of C++ - Roi Barkan](https://www.youtube.com/watch?v=ttoQfPP_Gkg)
+* [Why Structured Concurrency is the Future of C++ - Roi Barkan - slides](https://docs.google.com/presentation/d/1tCQD6qSimgOJ_5EZ2pxbvzV6KLynmRaF-R33KzwCCDk/present?slide=id.g39acee9f8e5_0_699)
